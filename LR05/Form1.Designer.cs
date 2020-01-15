@@ -1,4 +1,4 @@
-﻿namespace LR05
+﻿namespace VigenerCode
 {
     partial class Form1
     {

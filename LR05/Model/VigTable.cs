@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LR05.Model
+namespace VigenerCode.Model
 {
     public class VigTable
     {

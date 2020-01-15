@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LR05.Model;
+using VigenerCode.Model;
 
-namespace LR05.Controller
+namespace VigenerCode.Controller
 {
     public class VigController
     {

@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using LR05.Controller;
+using VigenerCode.Controller;
 
-namespace LR05
+namespace VigenerCode
 {
     public partial class Form1 : Form
     {

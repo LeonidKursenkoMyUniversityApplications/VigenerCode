@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LR05.Properties
+namespace VigenerCode.Properties
 {
 
 
